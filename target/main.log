@@ -1,0 +1,4 @@
+15:49:55.191 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+15:49:55.270 [print] Hello World
+15:49:55.307 [print] another print
+15:49:55.329 [print] then print
